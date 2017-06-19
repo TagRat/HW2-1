@@ -27,7 +27,7 @@
 </head>
 <body>
     <main>
-        <h1>Product Discount Calaculator</h1>
+        <h1>Product Discount Calculator</h1>
 
         <label>Product Description:</label>
         <span><?php echo htmlspecialchars ($product_description); ?></span><br>
