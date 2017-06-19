@@ -32,10 +32,10 @@
         <span><?php echo $discount_percent; ?></span><br>
 
         <label>Discount Amount:</label>
-        <span><?php echo $discount_price; ?></span><br>
+        <span><?php echo $discount; ?></span><br>
 
         <label>Discount Price:</label>
-        <span><?php echo ''; ?></span><br>
+        <span><?php echo $discount_price; ?></span><br>
     </main>
 </body>
 </html>
