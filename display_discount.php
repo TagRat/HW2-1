@@ -24,7 +24,7 @@
         <span><?php echo $list_price; ?></span><br>
 
         <label>Standard Discount:</label>
-        <span><?php echo $discount_precentage; ?></span><br>
+        <span><?php echo $discount_precent; ?></span><br>
 
         <label>Discount Amount:</label>
         <span><?php echo ''; ?></span><br>
